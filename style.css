@@ -55,10 +55,10 @@ footer {
   justify-content: space-between;
 }
 
-section{
+/* section{
   background-image: radial-gradient(#0d3ca1 0.5px, #fff 0.5px);
 background-size: 10px 10px;
-}
+} */
 section .title {
   position: relative;
   text-align: center;
@@ -501,7 +501,11 @@ background-size: 10px 10px;
 .project .title::after {
   content: "See My Work";
 }
+
+
+
 .project .carousel .card {
+ 
   background: #222;
   border-radius: 6px;
   padding: 15px 25px;
