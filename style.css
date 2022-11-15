@@ -570,6 +570,7 @@ background-size: 10px 10px;
 .demo-div a:link,
 .techStack {
   text-decoration: none;
+  font-weight: bold;
   color: white;
 }
 
